@@ -1,6 +1,6 @@
 <img src="screen/Love Dating Logo.png" ></img> 
 <br/>
-# DatingApp
+# DatingApp by ANANYA :)
 Android app like Tinder.
 <br/>
 
@@ -11,7 +11,7 @@ Android app like Tinder.
 
 ## Download
 
-* [LoveDating](https://github.com/quintuslabs/DatingApp/blob/master/lovedating1.2.apk) - Download APK
+* [LoveDating](https://github.com/Ananya-0306/Tinder) - Download APK
 <br/>
 
 <br/>
@@ -31,4 +31,5 @@ This awesome multipurpose dating app designed with a strong sense of modern and 
 By using this template UI app save your 1000% development time. This app presents a lot of layouts (Slider Landing Page, Sign In Page, Multiple Slider Sign Up Page, Swipe Page, Match Page, Gorgeous Chat Page with Giphy Support, User Public Profile, User Own Profile, Edit Profile Page and Settings pages) etc. 
 
 Therefore, this well-organized design concepts template app will help to build your dating app exactly what you’re looking for.
+# Made with ❤ by Ananya Chatterjee!
 
